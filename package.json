@@ -1,0 +1,23 @@
+{
+  "name": "orlandmedia-pages",
+  "version": "1.0.0",
+  "description": "Github Pages for Orland Media organisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlandmedia/orlandmedia.github.io.git"
+  },
+  "author": "Gavin Orland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlandmedia/orlandmedia.github.io/issues"
+  },
+  "homepage": "https://github.com/orlandmedia/orlandmedia.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.1"
+  }
+}
